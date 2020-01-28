@@ -138,7 +138,7 @@ body {
 
 .youtube:hover {
 	transform: scale(1.35);
-	color: #FF6D6D;
+	color: #FF3838;
 }
 
 .twitter {
@@ -171,7 +171,7 @@ body {
 
 .soundcloud:hover {
 	transform: scale(1.35);
-	color: #FF5500;
+	color: #FF671C;
 }
 
 .discord {
