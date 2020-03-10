@@ -68,6 +68,8 @@ body {
   text-decoration: none;
   display: block;
   text-align: left;
+  background-color: black;
+  opacity: 0.6;
 }
 
 /* Add a dark background on topnav links and the dropdown button on hover */
