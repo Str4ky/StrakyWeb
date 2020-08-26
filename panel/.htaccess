@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Ah ah gay"
+AuthUserFile /.htpasswd
+require valid-user
