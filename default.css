@@ -24,7 +24,7 @@ body {
 
 /* Add an active class to highlight the current page */
 .active {
-  background-color: #603374;
+  background-color: #663FA8;
   color: white;
 }
 
@@ -74,13 +74,13 @@ body {
 
 /* Add a dark background on topnav links and the dropdown button on hover */
 .topnav a:hover, .dropdown:hover .dropbtn {
-  background-color: #603374;
+  background-color: #663FA8;
   color: white;
 }
 
 /* Add a grey background to dropdown links on hover */
 .dropdown-content a:hover {
-  background-color: #603374;
+  background-color: #663FA8;
   color: white;
 }
 
@@ -374,7 +374,7 @@ body {
 .button6 {
 	-webkit-transition-duration: 0.4s;
 	transition-duration: 0.4s;
-	background-color: #8559cc;
+	background-color: #663FA8;
 	border: none;
 	color: white;
 	padding: 15px 32px;
