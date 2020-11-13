@@ -386,7 +386,7 @@ body {
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-.button6:hover {
+.button6:hove
 	-webkit-transition-duration: 0.4s;
 	transition-duration: 0.4s;
 	background-color: #9774cc;
